@@ -1,5 +1,6 @@
 botSubDomain=albot.vsalis.eu
-botName=myTeamsRecBot
-projectPrefix=albot
+botName=test-teams-bot-314
+projectPrefix=piebot
 azureLocation=northeurope
-acrName=albotacr
+acrName=pibotacr314
+
