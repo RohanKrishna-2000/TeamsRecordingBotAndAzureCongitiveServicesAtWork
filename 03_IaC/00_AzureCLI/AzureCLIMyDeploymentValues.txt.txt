@@ -1,0 +1,5 @@
+botSubDomain=albot.vsalis.eu
+botName=test-teams-bot-314
+projectPrefix=albot
+azureLocation=northeurope
+acrName=pibotacr
